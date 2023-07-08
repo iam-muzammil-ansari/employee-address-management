@@ -78,7 +78,7 @@ To run the project locally, follow these steps:
 5. Run the application.
 
 ## Testing Endpoints
-You can test the endpoints using tools like [Swagger](localhost:8080/swagger-ui/index.html) or [Postman](https://www.postman.com/).
+You can test the endpoints using tools like [Swagger](https://swagger.io/tools/swagger-ui) or [Postman](https://www.postman.com/).
 - For Address:
   
   - To retrieve all addresses: `GET /Addresses`
